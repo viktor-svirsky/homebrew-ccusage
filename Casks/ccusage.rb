@@ -1,6 +1,6 @@
 cask "ccusage" do
-  version "1.25.4"
-  sha256 "05302933646c31cb28121ea3e1758af4850606c640b6996736804770e7d10bae"
+  version "1.25.5"
+  sha256 "a9494a2bc10eb25fae2aa3d0593dba98d6a78192381e6b212f6736ffb4165211"
 
   url "https://github.com/viktor-svirsky/ccusage/releases/download/v#{version}/CCUsage.zip"
   name "CCUsage"
